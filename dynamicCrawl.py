@@ -1,6 +1,7 @@
 #In order to web scrape a dynamic web page that uses JavaScript to load conent:
     #Use Selenium with Chrome Web Driver (Chromium)
     #To use Selenium, must also install a web browser engine: geckodriver
+    
 
 #Strategy:
 #Use Selenium web driver to call the browser
